@@ -1,1 +1,881 @@
+																					
+	Dual Desk Weekly Update | Thanesar, Kurukshetra						# Dual Desk Ordered					# Dual Desk Delivered									
+							1932	2434	2503	6869		1515	1707	1705	4927						
+									 		% Delivery	78%	70%	68%	72%						
+																					
+	#	Cluster	Schools Type	School Name 	School Code	Eligible for Dual Desk?	Type 1	Type 2	Type 3	Order Total	Status	Type 1	Type 2	Type 3	Delivery Total	Delivery Pending	% Delivery				
+	3	GGSSS PARTAPGARH, 2331	GPS	GPS KHERI MARKANDA 	14873	Yes	50	0	0	50	Procurement completed	50	0	0	50	0	100%				
+	8	GGSSS PARTAPGARH, 2331	GHS	GMS KHERI MARKANDA	5587	Yes	0	50	0	50	Procurement completed	0	50	0	50	0	100%				
+	9	GGSSS PARTAPGARH, 2331	GSSS	GSSS RATTANDERA 	4183	Yes	0	10	50	60	Procurement completed	0	10	50	60	0	100%				
+	10	GGSSS PARTAPGARH, 2331	GSSS	GGSSS PARTAPGARH 	2331	Yes	0	20	40	60	Procurement completed	0	20	40	60	0	100%				
+	12	GGSSS THANESAR, 2413	GPS	GPS FAUJI COLONY	14779	Yes	30	0	0	30	Procurement completed	30	0	0	30	0	100%				
+	13	GGSSS THANESAR, 2413	GPS	GPS GANDHI NAGAR 	14780	Yes	26	0	0	26	Procurement completed	26	0	0	26	0	100%				
+	14	GGSSS THANESAR, 2413	GPS	GPS LAYALPUR BASTI 	14882	Yes	170	0	0	170	Procurement in progress	120	0	0	120	50	71%				
+	15	GGSSS THANESAR, 2413	GPS	GPS THANESAR-1	14813	Yes	40	0	0	40	Procurement completed	40	0	0	40	0	100%				
+	20	GGSSS THANESAR, 2413	GSSS	GGSSS THANESAR	2413	Yes	0	0	441	441	Procurement in progress	0	0	417	417	24	95%				
+	24	GSSS LUKHI, 2325	GPS	GPS LUKHI	14880	Yes	15	0	0	15	Procurement completed	15	0	0	15	0	100%				
+	29	GSSS LUKHI, 2325	GSSS	GSSS LUKHI 	2325	Yes	0	25	40	65	Procurement completed	0	25	40	65	0	100%				
+	31	GSSS TIGRI KHALSA, 2338	GPS	GPS ISHAQPUR	14861	Yes	10	10	0	20	Procurement not started	 	 	 	0	20	0%				
+	33	GSSS TIGRI KHALSA, 2338	GPS	GPS SALARPUR	14805	Yes	7	0	0	7	Procurement completed	7	0	0	7	0	100%				
+	38	GSSS TIGRI KHALSA, 2338	GMS	GMS SUNHERI KHALSA	5430	Yes	0	12	0	12	Procurement completed	0	12	0	12	0	100%				
+	39	GSSS TIGRI KHALSA, 2338	GSSS	GSSS TIGRI KHALSA	2338	Yes	0	26	59	85	Procurement completed	0	26	59	85	0	100%				
+	40	GMSSSS KKR, 2406	GPS	GPS ALAMPUR	14754	Yes	0	20	0	20	Procurement completed	0	20	0	20	0	100%				
+	41	GMSSSS KKR, 2406	GPS	GPS CHANARTHAL	14839	Yes	14	6	0	20	Procurement completed	14	6	0	20	0	100%				
+	42	GMSSSS KKR, 2406	MSS (Primary)	GPS DAYALPUR	14768	Yes	15	0	0	15	Procurement completed	15	0	0	15	0	100%				
+	43	GMSSSS KKR, 2406	MSS (Primary)	GPS GOBIND GARH	14782	Yes	65	25	0	90	Procurement completed	65	25	0	90	0	100%				
+	47	GMSSSS KKR, 2406	GMS	GMS ALAMPUR	6403	Yes	0	60	0	60	Procurement completed	0	60	0	60	0	100%				
+	50	GMSSSS KKR, 2406	MSS (Sr. Secondary)	GMSSSS KURUKSHETRA	2406	Yes	0	50	250	300	Procurement completed	0	50	250	300	0	100%				
+	51	GSSS AJRANA KALAN, 2390	GPS	GGPS AJRANA KALAN	14823	Yes	0	15	0	15	Procurement not started				0	15	0%				
+	57	GSSS AJRANA KALAN, 2390	GPS	GPS GOGPUR	14856	Yes	0	10	0	10	Procurement not started	0	0	0	0	10	0%				
+	59	GSSS AJRANA KALAN, 2390	GMS	GMS AJRANA KHURD	5581	Yes	0	10	0	10	Procurement not started				0	10	0%				
+	62	GSSS AJRANA KALAN, 2390	GHS	GGHS AJRANA KALAN	2445	Yes	0	10	10	20	Procurement not started				0	20	0%				
+	67	GSSS AMIN, 2391	GPS	GPS DERA DELHI WALA	14844	Yes	60	0	0	60	Procurement completed	60	0	0	60	0	100%				
+	68	GSSS AMIN, 2391	GPS	GPS DERA MALIYAN	14845	Yes	0	2	0	2	Procurement completed	0	2	0	2	0	100%				
+	70	GSSS AMIN, 2391	GPS	GPS KHERI RAM NAGAR	14874	Yes	19	16	0	35	Procurement completed	19	16	0	35	0	100%				
+	74	GSSS AMIN, 2391	GMS	GMS KHERI RAM NAGAR	4343	Yes	0	25	0	25	Procurement completed	0	25	0	25	0	100%				
+	75	GSSS AMIN, 2391	GSSS	GSSS AMIN	2391	Yes	0	41	80	121	Procurement completed	0	41	80	121	0	100%				
+	78	GSSS BALAHI, 2306	GPS	GPS DABKHERI	14766	Yes	20	0	0	20	Procurement not started				0	20	0%				
+	80	GSSS BALAHI, 2306	GPS	GPS GULAB MAJRA	14857	Yes	5	0	0	5	Procurement not started				0	5	0%				
+	82	GSSS BALAHI, 2306	GPS	GPS MUNDA KHERA	14887	Yes	15	0	0	15	Procurement not started				0	15	0%				
+	83	GSSS BALAHI, 2306	GPS	GPS SAMASPUR	14806	Yes	20	0	0	20	Procurement not started				0	20	0%				
+	84	GSSS BALAHI, 2306	GMS	GMS JOGNA KHERA	5576	Yes	0	25	0	25	Procurement not started				0	25	0%				
+	85	GSSS BALAHI, 2306	GMS	GMS MUNDA KHERA	5568	Yes	0	20	0	20	Procurement not started				0	20	0%				
+	86	GSSS BALAHI, 2306	GMS	GMS SAMASPUR	2384	Yes	0	15	0	15	Procurement not started				0	15	0%				
+	87	GSSS BALAHI, 2306	GHS	GHS DABKHERI	2353	Yes	0	62	50	112	Procurement not started				0	112	0%				
+	88	GSSS BALAHI, 2306	GSSS	GSSS BALAHI	2306	Yes	0	40	60	100	Procurement completed	0	40	60	100	0	100%				
+	89	GSSS BEHOLI, 2347	MSS (Primary)	GPS BAZIDPUR	14829	Yes	24	36	0	60	Procurement completed	24	36	0	60	0	100%				
+	91	GSSS BEHOLI, 2347	GPS	GPS DERA PURBIAN SIRSAMA	14772	Yes	35	10	0	45	Procurement completed	35	10	0	45	0	100%				
+	93	GSSS BEHOLI, 2347	GPS	GPS KISHAN PURA	14878	Yes	30	20	0	50	Procurement completed	30	20	0	50	0	100%				
+	94	GSSS BEHOLI, 2347	GPS	GPS SIRSAMA	14902	Yes	18	18	0	36	Procurement completed	18	18	0	36	0	100%				
+	95	GSSS BEHOLI, 2347	GMS	GMS BAZIDPUR	6467	Yes	0	10	0	10	Procurement not started				0	10	0%				
+	97	GSSS BEHOLI, 2347	GMS	GMS KISHAN PURA	5567	Yes	0	25	0	25	Procurement completed	0	25	0	25	0	100%				
+	98	GSSS BEHOLI, 2347	GHS	GHS SIRSAMA	2383	Yes	0	70	10	80	Procurement in progress	0	60	0	60	20	75%				
+	100	GSSS BHIWANI KHERA, 2352	GPS	GPS ADHON	14821	Yes	25	0	0	25	Procurement completed	25	0	0	25	0	100%				
+	104	GSSS BHIWANI KHERA, 2352	GPS	GPS BISHANGARH	14761	Yes	15	0	0	15	Procurement completed	15	0	0	15	0	100%				
+	109	GSSS BHIWANI KHERA, 2352	GPS	GPS SINGHPURA	14900	Yes	40	0	0	40	Procurement completed	40	0	0	40	0	100%				
+	110	GSSS BHIWANI KHERA, 2352	GMS	GMS ADHON	4230	Yes	0	20	0	20	Procurement not started				0	20	0%				
+	111	GSSS BHIWANI KHERA, 2352	GMS	GMS BAHADURPURA	2350	Yes	0	50	0	50	Procurement completed	0	50	0	50	0	100%				
+	112	GSSS BHIWANI KHERA, 2352	GMS	GMS SINGHPURA	6167	Yes	0	10	0	10	Procurement completed	0	10	0	10	0	100%				
+	113	GSSS BHIWANI KHERA, 2352	GSSS	GSSS BHIWANI KHERA	2352	Yes	0	55	100	155	Procurement completed	0	55	100	155	0	100%				
+	116	GSSS BHUSTHALA, 2418	GPS	GPS PIPLI MAJRA	14891	Yes	12	0	0	12	Procurement not started				0	12	0%				
+	121	GSSS BHUSTHALA, 2418	GMS	GMS PIPLI MAJRA	6495	Yes	0	5	0	5	Procurement not started				0	5	0%				
+	123	GSSS BHUSTHALA, 2418	GHS	GHS UDARSI	2341	Yes	0	20	10	30	Procurement not started				0	30	0%				
+	124	GSSS BHUSTHALA, 2418	GSSS	GSSS BHUSTHALA	2418	Yes	0	0	53	53	Procurement completed	0	0	53	53	0	100%				
+	125	GSSS DEVIDASPURA, 2313	MSS (Primary)	GPS DERA RAM PURA	14850	Yes	20	0	0	20	Procurement completed	20	0	0	20	0	100%				
+	126	GSSS DEVIDASPURA, 2313	MSS (Primary)	GPS DEVIDAS PURA	14774	Yes	320	0	0	320	Procurement completed	320	0	0	320	0	100%				
+	127	GSSS DEVIDASPURA, 2313	GPS	GPS KALAL MAJRA	14791	Yes	60	0	0	60	Procurement not started				0	60	0%				
+	128	GSSS DEVIDASPURA, 2313	GPS	GPS PALWAL	14798	Yes	26	0	0	26	Procurement completed	26	0	0	26	0	100%				
+	129	GSSS DEVIDASPURA, 2313	MSS (Primary)	GPS RATGAL	14802	Yes	86	0	0	86	Procurement completed	86	0	0	86	0	100%				
+	130	GSSS DEVIDASPURA, 2313	MSS (Primary)	GPS SUNDER PUR	14903	Yes	100	0	0	100	Procurement completed	100	0	0	100	0	100%				
+	131	GSSS DEVIDASPURA, 2313	GMS	GMS KALAL MAJRA	6170	Yes	0	44	0	44	Procurement completed	0	44	0	44	0	100%				
+	132	GSSS DEVIDASPURA, 2313	GMS	GMS RATGAL	2380	Yes	0	115	0	115	Procurement completed	0	115	0	115	0	100%				
+	133	GSSS DEVIDASPURA, 2313	GMS	GMS SUNDERPUR	6468	Yes	0	75	0	75	Procurement completed	0	75	0	75	0	100%				
+	134	GSSS DEVIDASPURA, 2313	GHS	GHS PALWAL	2332	Yes	0	47	59	106	Procurement not started				0	106	0%				
+	135	GSSS DEVIDASPURA, 2313	GSSS	GSSS DEVIDASPURA	2313	Yes	0	105	115	220	Procurement completed	0	105	115	220	0	100%				
+	141	GSSS DHURALA, 4179	GPS	GPS HINGA KHERI	14785	Yes	21	0	0	21	Procurement not started				0	21	0%				
+	143	GSSS DHURALA, 4179	GMS	GMS CHIBBA	5588	Yes	0	18	0	18	Procurement completed	0	18	0	18	0	100%				
+	145	GSSS DHURALA, 4179	GMS	GMS GOBIND MAJRA	5440	Yes	0	12	0	12	Procurement not started				0	12	0%				
+	147	GSSS DHURALA, 4179	GSSS	GSSS DHURALA	4179	Yes	0	125	190	315	Procurement not started				0	315	0%				
+	156	GSSS DUDHLA MORTHLA, 2396	GSSS	GSSS DUDHLA MORTHLA	2396	Yes	0	0	50	50	Procurement completed	0	0	50	50	0	100%				
+	158	GSSS HATHIRA, 2318	MSS (Primary)	GPS HATHIRA	14859	Yes	10	0	0	10	Procurement completed	10	0	0	10	0	100%				
+	163	GSSS HATHIRA, 2318	GMS	GMS SAMSIPUR	6470	Yes	0	21	0	21	Procurement in progress	0	18	0	18	3	86%				
+	164	GSSS HATHIRA, 2318	GSSS	GSSS KIRMACH	2405	Yes	0	20	50	70	Procurement completed	0	20	50	70	0	100%				
+	165	GSSS HATHIRA, 2318	GSSS	GSSS HATHIRA	2318	Yes	0	10	20	30	Procurement completed	0	10	20	30	0	100%				
+	167	GSSS JYOTISAR, 2402	MSS (Primary)	GPS JOYTISAR	14790	Yes	20	0	0	20	Procurement completed	20	0	0	20	0	100%				
+	169	GSSS JYOTISAR, 2402	GPS	GPS LOHAR MAJRA	14796	Yes	10	0	0	10	Procurement in progress	6	0	0	6	4	60%				
+	170	GSSS JYOTISAR, 2402	GPS	GPS NARKATARI	14888	Yes	35	0	0	35	Procurement not started	0	0	0	0	35	0%				
+	172	GSSS JYOTISAR, 2402	GMS	GMS KHIDERPURA	6397	Yes	0	21	0	21	Procurement completed	0	21	0	21	0	100%				
+	174	GSSS JYOTISAR, 2402	GHS	GHS LOHAR MAJRA	2435	Yes	0	75	50	125	Procurement in progress	0	74	50	124	1	99%				
+	175	GSSS JYOTISAR, 2402	GSSS	GSSS JYOTISAR	2402	Yes	0	20	10	30	Procurement in progress	0	19	10	29	1	97%				
+	182	GSSS KAMODA, 2320	GPS	GPS KAMODA	14866	Yes	20	0	0	20	Procurement not started				0	20	0%				
+	187	GSSS KAMODA, 2320	GHS	GHS PINDARSI	2376	Yes	0	0	50	50	Procurement completed	0	0	50	50	0	100%				
+	189	GSSS KAMODA, 2320	GSSS	GSSS KAMODA	2320	Yes	0	40	100	140	Procurement not started				0	140	0%				
+	191	GSSS KANIPLA, 2446	GPS	GPS DERA PURBIA KHANPUR KOLIAN	14849	Yes	26	0	0	26	Procurement completed	26	0	0	26	0	100%				
+	192	GSSS KANIPLA, 2446	GPS	GPS DHIRPUR	14769	Yes	0	10	0	10	Procurement completed	0	10	0	10	0	100%				
+	195	GSSS KANIPLA, 2446	GPS	GPS KHANPUR KOLIAN	14870	Yes	30	0	0	30	Procurement not started				0	30	0%				
+	196	GSSS KANIPLA, 2446	MSS (Primary)	GPS SIRSALA	14901	Yes	30	0	0	30	Procurement not started				0	30	0%				
+	199	GSSS KANIPLA, 2446	GMS	GMS KHANPUR KOLIAN	6402	Yes	0	16	0	16	Procurement in progress	0	10	0	10	6	63%				
+	201	GSSS KANIPLA, 2446	GSSS	GSSS KANIPLA	2446	Yes	0	80	68	148	Procurement completed	0	80	68	148	0	100%				
+	202	GSSS MATHANA, 2408	GPS	GPS BIR MATHANA	14838	Yes	20	0	0	20	Procurement completed	20	0	0	20	0	100%				
+	203	GSSS MATHANA, 2408	MSS (Primary)	GPS DAULATPUR	14767	Yes	15	15	0	30	Procurement completed	15	15	0	30	0	100%				
+	204	GSSS MATHANA, 2408	GPS	GPS KISHANGARH	14877	Yes	19	8	0	27	Procurement completed	19	8	0	27	0	100%				
+	205	GSSS MATHANA, 2408	MSS (Primary)	GPS MATHANA	14883	Yes	25	0	0	25	Procurement completed	25	0	0	25	0	100%				
+	208	GSSS MATHANA, 2408	GMS	GMS DAULATPUR	5425	Yes	0	20	0	20	Procurement completed	0	20	0	20	0	100%				
+	209	GSSS MATHANA, 2408	GMS	GMS KISHANGARH	6472	Yes	0	13	0	13	Procurement completed	0	13	0	13	0	100%				
+	210	GSSS MATHANA, 2408	GMS	GMS SHADIPUR LADWA	6469	Yes	0	12	0	12	Procurement completed	0	12	0	12	0	100%				
+	211	GSSS MATHANA, 2408	GSSS	GSSS BIR MATHANA	2307	Yes	0	15	40	55	Procurement completed	0	15	40	55	0	100%				
+	212	GSSS MATHANA, 2408	GSSS	GSSS MATHANA	2408	Yes	0	40	130	170	Procurement not started				0	170	0%				
+	214	GSSS MIRZAPUR, 2326	MSS (Primary)	GPS BARWA	14833	Yes	5	0	0	5	Procurement not started	0	0		0	5	0%				
+	215	GSSS MIRZAPUR, 2326	GPS	GPS KAINTHALA KHURD	14868	Yes	0	20	0	20	Procurement not started				0	20	0%				
+	217	GSSS MIRZAPUR, 2326	GPS	GPS MIRZAPUR	14885	Yes	40	0	0	40	Procurement not started				0	40	0%				
+	220	GSSS MIRZAPUR, 2326	GHS	GHS BARWA	2312	Yes	0	45	15	60	Procurement completed	0	45	15	60	0	100%				
+	221	GSSS MIRZAPUR, 2326	GHS	GHS KAINTHLA KHURD	2366	Yes	0	30	30	60	Procurement not started				0	60	0%				
+	222	GSSS MIRZAPUR, 2326	GSSS	GSSS MIRZAPUR	2326	Yes	0	80	90	170	Procurement not started				0	170	0%				
+	223	GSSS PIPLI, 2329	GPS	GPS BIR PIPLI	14837	Yes	10	0	0	10	Procurement not started				0	10	0%				
+	224	GSSS PIPLI, 2329	GPS	GPS DERA BAJIGAR UMRI	14770	Yes	12	0	0	12	Procurement completed	12	0	0	12	0	100%				
+	225	GSSS PIPLI, 2329	GPS	GPS JIRBARI	14787	Yes	32	12	0	44	Procurement in progress	32	0	0	32	12	73%				
+	226	GSSS PIPLI, 2329	GPS	GPS PIPLI	14890	Yes	30	0	0	30	Procurement not started				0	30	0%				
+	227	GSSS PIPLI, 2329	GPS	GPS RAMGARH	14801	Yes	20	0	0	20	Procurement completed	20	0	0	20	0	100%				
+	228	GSSS PIPLI, 2329	GPS	GPS URBAN ESTATE KURUKSHETRA	14906	Yes	25	0	0	25	Procurement completed	25	0	0	25	0	100%				
+	229	GSSS PIPLI, 2329	GMS	GMS DERA BAZIGAR UMRI	6466	Yes	0	32	0	32	Procurement in progress	0	12	0	12	20	38%				
+	230	GSSS PIPLI, 2329	GMS	GMS JIRBARI	2359	Yes	0	13	0	13	Procurement not started				0	13	0%				
+	231	GSSS PIPLI, 2329	GMS	GMS RAMGARH	2450	Yes	0	30	0	30	Procurement not started	0	30	0	30	0	100%				
+	232	GSSS PIPLI, 2329	GMS	GMS URBAN ESTATE KKR	6169	Yes	0	30	0	30	Procurement not started	0	30	0	30	0	100%				
+	233	GSSS PIPLI, 2329	GSSS	GSSS PIPLI	2329	Yes	0	91	45	136	Procurement completed	0	91	45	136	0	100%				
+	236	GSSS UMRI, 2340	GPS	GPS JHINVARHERI 2	14864	Yes	25	0	0	25	Procurement completed	25	0	0	25	0	100%				
+	237	GSSS UMRI, 2340	GPS	GPS SAMANI	14897	Yes	15	0	0	15	Procurement completed	15	0	0	15	0	100%				
+	238	GSSS UMRI, 2340	GPS	GPS SODHI	14811	Yes	10	10	0	20	Procurement completed	10	10	0	20	0	100%				
+	239	GSSS UMRI, 2340	GPS	GPS UMRI	14818	Yes	35	15	0	50	Procurement completed	35	15	0	50	0	100%				
+	242	GSSS UMRI, 2340	GMS	GMS BODHI	6398	Yes	0	50	0	50	Procurement completed	0	40	0	40	10	80%				
+	243	GSSS UMRI, 2340	GMS	GMS JHINWERHERI-2	6399	Yes	0	20	0	20	Procurement completed	0	20	0	20	0	100%				
+	245	GSSS UMRI, 2340	GSSS	GSSS UMRI	2340	Yes	0	25	138	163	Procurement in progress	0	0	43	43	120	26%				
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
 
